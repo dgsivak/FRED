@@ -1,0 +1,20 @@
+name: F.R.E.D. - First-Aid Responder Emergency Dispatch
+description: "An app that is responsible for informing accidents to paramedics from shop floor in case of emergency."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ^3.5.2
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/shop_floor.png
