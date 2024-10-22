@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fred/Components/Footer.dart';
+import '../Components/Footer.dart';
 import 'NotificationPage.dart';
 import 'MapPage.dart';
 

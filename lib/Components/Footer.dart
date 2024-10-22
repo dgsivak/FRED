@@ -12,10 +12,6 @@ class Footer extends StatelessWidget {
       currentIndex: selectedIndex,
       items: const [
         BottomNavigationBarItem(
-          icon: Icon(Icons.home),
-          label: 'Main',
-        ),
-        BottomNavigationBarItem(
           icon: Icon(Icons.notifications),
           label: 'Notifications',
         ),

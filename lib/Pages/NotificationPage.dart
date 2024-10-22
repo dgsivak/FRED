@@ -15,7 +15,6 @@ class NotificationsPage extends StatelessWidget {
       date: DateTime(2024, 9, 17),
       time: TimeOfDay(hour: 14, minute: 30),
     ),
-    // Add more incidents here
   ];
 
   @override
