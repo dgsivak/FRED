@@ -1,4 +1,4 @@
-name: F.R.E.D. - First-Aid Responder Emergency Dispatch
+name: fred
 description: "An app that is responsible for informing accidents to paramedics from shop floor in case of emergency."
 publish_to: 'none'
 version: 1.0.0+1
